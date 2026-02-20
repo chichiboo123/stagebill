@@ -267,11 +267,18 @@ function createCardHTML(m) {
     `<span class="hashtag-sm" onclick="event.stopPropagation(); searchByHashtag('${h}')">${h}</span>`
   ).join('');
 
+  const thumbnailInner = m.thumbnail
+    ? `<img src="${m.thumbnail}" alt="${m.title} 포스터" class="card-poster">`
+    : `<div class="card-pattern"></div><span class="card-title-display">${m.title}</span>`;
+
+  const thumbnailStyle = m.thumbnail
+    ? ''
+    : `style="background: linear-gradient(135deg, ${m.color}cc, ${m.color}44);"`;
+
   return `
     <div class="card" data-id="${m.id}">
-      <div class="card-thumbnail" style="background: linear-gradient(135deg, ${m.color}cc, ${m.color}44);">
-        <div class="card-pattern"></div>
-        <span class="card-title-display">${m.title}</span>
+      <div class="card-thumbnail ${m.thumbnail ? 'has-image' : ''}" ${thumbnailStyle}>
+        ${thumbnailInner}
       </div>
       <div class="card-info">
         <div class="card-info-title">${m.title}</div>
@@ -318,10 +325,22 @@ function openModal(m) {
 
   // Hero background
   const modalHero = document.getElementById('modalHero');
-  modalHero.style.background = `
-    radial-gradient(ellipse at 50% 30%, ${m.color}66 0%, transparent 70%),
-    linear-gradient(135deg, ${m.color}33 0%, var(--bg-secondary) 100%)
-  `;
+  if (m.thumbnail) {
+    modalHero.style.backgroundImage = `url(${m.thumbnail})`;
+    modalHero.style.backgroundSize = 'cover';
+    modalHero.style.backgroundPosition = 'center top';
+    modalHero.style.background = '';
+    modalHero.classList.add('has-image');
+  } else {
+    modalHero.style.backgroundImage = '';
+    modalHero.style.backgroundSize = '';
+    modalHero.style.backgroundPosition = '';
+    modalHero.style.background = `
+      radial-gradient(ellipse at 50% 30%, ${m.color}66 0%, transparent 70%),
+      linear-gradient(135deg, ${m.color}33 0%, var(--bg-secondary) 100%)
+    `;
+    modalHero.classList.remove('has-image');
+  }
 
   document.getElementById('modalTitle').textContent = m.title;
 
