@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "빨래",
+    "category": "일상",
+    "curator": "뮤지컬 교육연구소",
+    "description": "서울 변두리 옥탑방과 반지하방에 사는 사람들의 소소한 일상과 사랑을 그린 뮤지컬. 평범한 일상 속에서 발견하는 따뜻한 위로와 공감의 이야기를 통해 학생들에게 삶의 가치를 전달할 수 있는 작품입니다.",
+    "recommendedNumbers": [
+      {"title": "빨래", "description": "일상의 반복 속에서 찾는 의미"},
+      {"title": "바라만 본다", "description": "짝사랑의 설렘과 아련함"},
+      {"title": "앞으로", "description": "내일을 향한 희망의 메시지"}
+    ],
+    "ideaNotes": "일상 속 감정 표현 수업에 활용 가능. 학생들이 자신의 하루를 뮤지컬 넘버로 표현해보는 활동과 연계하면 효과적입니다. 감정 일기와 병행하여 자기 표현력을 키울 수 있습니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example1",
+    "hashtags": ["#일상", "#위로", "#소통", "#옥탑방", "#사랑", "#공감", "#따뜻함"],
+    "thumbnail": "",
+    "color": "#E50914",
+    "year": 2005
+  },
+  {
+    "id": 2,
+    "title": "헤드윅",
+    "category": "컬러",
+    "curator": "뮤지컬 교육연구소",
+    "description": "동독 출신 트랜스젠더 록 뮤지션 헤드윅의 삶과 정체성을 탐구하는 록 뮤지컬. 자아 정체성, 사랑, 예술의 의미를 강렬한 록 음악과 함께 전달하는 작품으로 다양성과 포용에 대한 수업에 적합합니다.",
+    "recommendedNumbers": [
+      {"title": "Tear Me Down", "description": "벽을 허무는 자유의 외침"},
+      {"title": "The Origin of Love", "description": "사랑의 기원에 대한 신화적 이야기"},
+      {"title": "Wig in a Box", "description": "자기 표현과 변신의 즐거움"}
+    ],
+    "ideaNotes": "정체성과 다양성에 대한 토론 수업 자료로 활용. '나는 누구인가' 주제의 자기 탐색 활동과 연계 가능합니다. 록 음악 장르의 특성을 배우는 음악 수업과도 병행할 수 있습니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example2",
+    "hashtags": ["#정체성", "#록뮤지컬", "#다양성", "#자아", "#컬러", "#자유", "#표현"],
+    "thumbnail": "",
+    "color": "#FFD700",
+    "year": 1998
+  },
+  {
+    "id": 3,
+    "title": "디어 에반 한센",
+    "category": "일상",
+    "curator": "뮤지컬 교육연구소",
+    "description": "사회적 불안을 가진 고등학생 에반 한센이 한 통의 거짓 편지로 인해 얽히게 되는 이야기. 청소년의 외로움, SNS 시대의 소통, 정신 건강 등 현대 학생들에게 직접적으로 와닿는 주제를 다룹니다.",
+    "recommendedNumbers": [
+      {"title": "Waving Through a Window", "description": "소외감과 연결에 대한 갈망"},
+      {"title": "You Will Be Found", "description": "혼자가 아니라는 위로의 메시지"},
+      {"title": "For Forever", "description": "이상적 우정에 대한 꿈"}
+    ],
+    "ideaNotes": "학교 폭력 예방 및 정신 건강 수업에 적합. SNS와 진정한 소통에 대한 토론 활동으로 확장 가능합니다. 편지 쓰기 활동과 연계하여 감정 표현 연습에 활용할 수 있습니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example3",
+    "hashtags": ["#청소년", "#소통", "#SNS", "#외로움", "#위로", "#정신건강", "#편지"],
+    "thumbnail": "",
+    "color": "#4A90D9",
+    "year": 2015
+  },
+  {
+    "id": 4,
+    "title": "레미제라블",
+    "category": "진로",
+    "curator": "뮤지컬 교육연구소",
+    "description": "19세기 프랑스를 배경으로 장 발장의 구원과 혁명의 이야기를 그린 대서사시 뮤지컬. 정의, 자비, 희생, 사랑 등 보편적 가치를 웅장한 음악으로 전달하며 역사와 윤리 수업에 폭넓게 활용 가능합니다.",
+    "recommendedNumbers": [
+      {"title": "One Day More", "description": "혁명 전야의 긴장감과 결의"},
+      {"title": "I Dreamed a Dream", "description": "꿈과 현실의 괴리, 인생의 고난"},
+      {"title": "Do You Hear the People Sing?", "description": "민중의 함성과 자유에 대한 열망"}
+    ],
+    "ideaNotes": "역사 수업과 연계하여 프랑스 혁명 이해에 활용. 정의와 자비에 대한 윤리 토론 수업 자료로 적합합니다. 진로 수업에서 '나의 꿈'을 주제로 한 활동과 연결할 수 있습니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example4",
+    "hashtags": ["#혁명", "#정의", "#꿈", "#역사", "#진로", "#희생", "#자유", "#사랑"],
+    "thumbnail": "",
+    "color": "#C0392B",
+    "year": 1980
+  },
+  {
+    "id": 5,
+    "title": "위키드",
+    "category": "컬러",
+    "curator": "뮤지컬 교육연구소",
+    "description": "오즈의 마법사 이전 이야기를 다룬 뮤지컬로, 선과 악의 이분법에 도전하는 엘파바와 글린다의 우정과 성장을 그립니다. 편견과 진정한 선함의 의미에 대해 깊이 있는 사고를 이끌어내는 작품입니다.",
+    "recommendedNumbers": [
+      {"title": "Defying Gravity", "description": "한계를 뛰어넘는 도전의 순간"},
+      {"title": "Popular", "description": "인기와 외모에 대한 풍자"},
+      {"title": "For Good", "description": "서로를 변화시킨 우정의 힘"}
+    ],
+    "ideaNotes": "편견과 고정관념에 대한 수업에 최적. '진짜 나쁜 사람은 누구인가'라는 질문으로 비판적 사고력을 기를 수 있습니다. 초록색을 주제로 한 컬러 수업과도 연계 가능합니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example5",
+    "hashtags": ["#편견", "#우정", "#성장", "#컬러", "#도전", "#선과악", "#초록"],
+    "thumbnail": "",
+    "color": "#27AE60",
+    "year": 2003
+  },
+  {
+    "id": 6,
+    "title": "킹키부츠",
+    "category": "진로",
+    "curator": "뮤지컬 교육연구소",
+    "description": "아버지의 구두 공장을 물려받은 찰리와 드래그 퀸 롤라의 만남을 그린 뮤지컬. 꿈과 현실, 편견 극복, 진정한 나다움을 찾아가는 과정을 통해 진로와 자아 탐색에 대한 영감을 줍니다.",
+    "recommendedNumbers": [
+      {"title": "Everybody Say Yeah", "description": "변화를 받아들이는 축제의 순간"},
+      {"title": "Not My Father's Son", "description": "부모의 기대와 자신의 길 사이에서"},
+      {"title": "Raise You Up", "description": "서로를 일으켜 세우는 힘"}
+    ],
+    "ideaNotes": "진로 탐색 수업에서 '나만의 길 찾기' 활동과 연계. 가업 계승과 자기 꿈 사이의 갈등을 주제로 토론할 수 있습니다. 패션 디자인 프로젝트와 연결하면 창의적 수업이 됩니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example6",
+    "hashtags": ["#진로", "#꿈", "#다양성", "#패션", "#도전", "#자아", "#편견극복"],
+    "thumbnail": "",
+    "color": "#E91E63",
+    "year": 2012
+  },
+  {
+    "id": 7,
+    "title": "스쿨 오브 락",
+    "category": "일상",
+    "curator": "뮤지컬 교육연구소",
+    "description": "가짜 교사 듀이 핀이 명문 사립학교 학생들에게 록 밴드를 가르치며 벌어지는 이야기. 음악 교육의 가치, 자기 표현의 중요성, 그리고 규칙을 깨는 용기에 대한 메시지를 전달합니다.",
+    "recommendedNumbers": [
+      {"title": "Stick It to the Man", "description": "규칙을 깨는 반항의 에너지"},
+      {"title": "You're in the Band", "description": "팀워크와 소속감의 기쁨"},
+      {"title": "If Only You Would Listen", "description": "어른들에게 전하는 아이들의 목소리"}
+    ],
+    "ideaNotes": "음악 수업에서 밴드 구성 활동과 직접 연계 가능. 학생 자치 활동이나 동아리 활동의 동기 부여에 활용할 수 있습니다. 교사-학생 관계에 대한 토론 자료로도 적합합니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example7",
+    "hashtags": ["#음악교육", "#록", "#팀워크", "#자기표현", "#학교", "#도전", "#밴드"],
+    "thumbnail": "",
+    "color": "#FF9800",
+    "year": 2015
+  },
+  {
+    "id": 8,
+    "title": "맘마미아",
+    "category": "일상",
+    "curator": "뮤지컬 교육연구소",
+    "description": "ABBA의 명곡들로 구성된 주크박스 뮤지컬로, 결혼을 앞둔 딸이 아버지를 찾는 이야기. 가족, 사랑, 우정, 그리고 인생의 선택에 대한 밝고 경쾌한 메시지를 전달합니다.",
+    "recommendedNumbers": [
+      {"title": "Dancing Queen", "description": "자유롭게 춤추는 삶의 기쁨"},
+      {"title": "Mamma Mia", "description": "사랑 앞에서의 설렘과 혼란"},
+      {"title": "Thank You for the Music", "description": "음악에 대한 감사와 사랑"}
+    ],
+    "ideaNotes": "영어 가사 해석 수업과 연계하여 언어 학습에 활용. 팝 음악의 역사(ABBA)를 배우는 음악 감상 수업에 적합합니다. 가족 관계를 주제로 한 글쓰기 활동과도 연결됩니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example8",
+    "hashtags": ["#ABBA", "#가족", "#사랑", "#우정", "#음악", "#댄스", "#결혼"],
+    "thumbnail": "",
+    "color": "#3F51B5",
+    "year": 1999
+  },
+  {
+    "id": 9,
+    "title": "해밀턴",
+    "category": "진로",
+    "curator": "뮤지컬 교육연구소",
+    "description": "미국 건국의 아버지 알렉산더 해밀턴의 생애를 힙합으로 재해석한 혁신적 뮤지컬. 이민자의 꿈, 열정과 야망, 레거시에 대한 질문을 통해 역사와 진로에 대한 깊은 사유를 이끌어냅니다.",
+    "recommendedNumbers": [
+      {"title": "My Shot", "description": "기회를 놓치지 않겠다는 결의"},
+      {"title": "Wait for It", "description": "인내와 때를 기다리는 지혜"},
+      {"title": "Who Lives, Who Dies, Who Tells Your Story", "description": "어떤 이야기를 남길 것인가"}
+    ],
+    "ideaNotes": "역사 수업과 래핑을 결합한 융합 수업에 활용 가능. '나의 Shot(기회)'을 주제로 진로 설계 활동과 연계합니다. 힙합 장르를 통한 음악 창작 수업에도 적합합니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example9",
+    "hashtags": ["#힙합", "#역사", "#이민자", "#꿈", "#진로", "#혁신", "#레거시"],
+    "thumbnail": "",
+    "color": "#795548",
+    "year": 2015
+  },
+  {
+    "id": 10,
+    "title": "지킬 앤 하이드",
+    "category": "컬러",
+    "curator": "뮤지컬 교육연구소",
+    "description": "선과 악의 이중성을 탐구하는 고전 소설을 뮤지컬화한 작품. 인간 내면의 어둠과 빛, 도덕적 갈등을 극적인 음악으로 표현하며 윤리와 심리에 대한 깊은 토론을 이끌어낼 수 있습니다.",
+    "recommendedNumbers": [
+      {"title": "지금 이 순간", "description": "사랑과 구원의 간절한 노래"},
+      {"title": "Confrontation", "description": "선과 악의 내면적 대결"},
+      {"title": "누가 나를 두려워하랴", "description": "자유를 향한 어둠의 선언"}
+    ],
+    "ideaNotes": "문학 수업에서 원작 소설과 비교 분석 활동으로 활용. '내 안의 지킬과 하이드' 주제로 자기 성찰 글쓰기에 적합합니다. 이중성을 시각적으로 표현하는 미술 활동과도 연계됩니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example10",
+    "hashtags": ["#이중성", "#선과악", "#심리", "#컬러", "#고전", "#갈등", "#내면"],
+    "thumbnail": "",
+    "color": "#9C27B0",
+    "year": 1990
+  },
+  {
+    "id": 11,
+    "title": "렌트",
+    "category": "일상",
+    "curator": "뮤지컬 교육연구소",
+    "description": "뉴욕 이스트 빌리지에서 살아가는 젊은 예술가들의 1년을 그린 뮤지컬. 가난, 사랑, 질병, 예술에 대한 열정 속에서 '오늘'을 살아가는 의미를 묻는 작품입니다.",
+    "recommendedNumbers": [
+      {"title": "Seasons of Love", "description": "사랑으로 측정하는 시간의 가치"},
+      {"title": "La Vie Bohème", "description": "보헤미안 삶에 대한 찬가"},
+      {"title": "No Day But Today", "description": "오늘을 살자는 삶의 철학"}
+    ],
+    "ideaNotes": "시간의 가치에 대한 수업에서 'Seasons of Love' 가사 분석 활용. 예술가의 삶과 진로에 대한 토론 자료로 적합합니다. '525,600분의 나' 프로젝트로 1년 돌아보기 활동이 가능합니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example11",
+    "hashtags": ["#예술", "#사랑", "#오늘", "#일상", "#시간", "#열정", "#청춘"],
+    "thumbnail": "",
+    "color": "#00BCD4",
+    "year": 1996
+  },
+  {
+    "id": 12,
+    "title": "라이온 킹",
+    "category": "진로",
+    "curator": "뮤지컬 교육연구소",
+    "description": "아프리카 대초원을 배경으로 어린 사자 심바의 성장과 왕위 계승을 그린 뮤지컬. 책임감, 용기, 성장, 자연의 순환 등을 아름다운 음악과 시각적 스펙터클로 전달합니다.",
+    "recommendedNumbers": [
+      {"title": "Circle of Life", "description": "생명의 순환과 자연의 경이로움"},
+      {"title": "Hakuna Matata", "description": "걱정 없는 삶의 철학"},
+      {"title": "He Lives in You", "description": "선대의 정신이 이어지는 계승"}
+    ],
+    "ideaNotes": "리더십과 책임감에 대한 수업에 활용 가능. 자연과 환경을 주제로 한 융합 수업에 적합합니다. 인형극이나 그림자극 등 다양한 연극 기법을 체험하는 활동과 연계할 수 있습니다.",
+    "playlistLink": "https://www.youtube.com/playlist?list=example12",
+    "hashtags": ["#성장", "#리더십", "#자연", "#진로", "#용기", "#책임감", "#아프리카"],
+    "thumbnail": "",
+    "color": "#FFC107",
+    "year": 1997
+  }
+]
